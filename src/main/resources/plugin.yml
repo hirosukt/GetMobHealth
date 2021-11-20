@@ -1,0 +1,6 @@
+name: GetMobHealth
+version: '${version}'
+main: art.hirosuke.getmobhealth.GetMobHealth
+api-version: 1.16
+authors: [ Hirosuke ]
+description: the mob health be to your health
